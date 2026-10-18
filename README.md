@@ -32,14 +32,6 @@ Evaluate the risk–return profile of a two-asset equity portfolio using histori
 - **Market portfolio** (at r_f = 0.1% weekly): ~90% AMZN / 10% TSLA, with portfolio σ = 9.21%
 - **Sensitivity**: Reducing the risk-free rate to 0.05% shifts the tangency point and alters the Sharpe ratio, demonstrating the market portfolio's dependence on the risk-free rate assumption
 
-## Workbook Structure
-
-```
-Portfolio_Risk_and_Optimization.xlsx
-├── FrontSheet             # Summary of key results, histograms, and efficient frontier chart
-├── WEEKLY_RETURNS         # Raw price data, weekly returns, descriptive stats, VaR, histogram tables
-└── Risk_and_Portfolio_Metrics  # Portfolio weights grid, expected returns, σ, Sharpe ratios, covariance matrix
-```
 
 ## Concepts Applied
 
