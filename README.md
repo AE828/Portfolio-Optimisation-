@@ -1,6 +1,6 @@
 # Two-Asset Portfolio Risk Analysis and Mean-Variance Optimisation
 
-This repository contains my MATH2545 (Financial Mathematics) practical assignment from my BSc in Economics and Mathematics at the University of Leeds. The project applies Markowitz mean-variance portfolio theory to a two-asset portfolio of Amazon (AMZN) and Tesla (TSLA), constructing the efficient frontier, identifying the market portfolio, and performing Value at Risk estimation. All analysis was conducted in Excel.
+This  project applies Markowitz mean-variance portfolio theory to a two-asset portfolio of Amazon (AMZN) and Tesla (TSLA), constructing the efficient frontier, identifying the market portfolio, and performing Value at Risk estimation. All analysis was conducted in Excel.
 
 ## Objective
 
